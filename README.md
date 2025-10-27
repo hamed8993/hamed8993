@@ -11,9 +11,9 @@
 
 **Frontend Specialist with Full Stack Capabilities**
 
-- 💼 **Professional Frontend Experience**: 3+ years working with Next.js in company environments
-- 🚀 **Currently**: Freelancing with modern JavaScript, React, and legacy jQuery projects
-- 🔥 **Backend Skills**: Built and deployed complete demo projects with Nest.js & Express.js
+- 💼 **Professional Frontend Experience**: 3+ years working with *Next.js* in company environments
+- 🚀 **Currently**: Freelancing with modern *JavaScript*, *React*, and legacy *jQuery* projects
+- 🔥 **Backend Skills**: Built and deployed complete demo projects with *Nest.js* & *Express.js*
 - 🌱 **Learning**: Docker, CI/CD, and advanced backend patterns
 
 ---
