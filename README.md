@@ -40,13 +40,15 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![Passport](https://img.shields.io/badge/Passport-34E27A?logo=passport&logoColor=black)
 
-### 🛠 Tools & Technologies (Learning)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+### 🛠 Tools & Technologies
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+### 🛠 Tools & Technologies (Learning)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![CI/CD & DevOps](https://img.shields.io/badge/CI%2FCD%20%26%20DevOps-GitHub%20Actions%2C%20Jenkins%2C%20GitLab-2088FF?style=plastic&logo=githubactions&logoColor=white&labelColor=2088FF&color=2088FF)
 ---
 
 ## 🎯 What I Bring to the Table
